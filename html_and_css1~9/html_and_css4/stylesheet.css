@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h1{
+	font-family: serif; /*明朝系*/
+}
+
+h2{
+	font-family: "游ゴシック体","Yu Gothic", YuGothic, sans-serif;
+}
+
+p{
+	font-family: "ヒラギノ丸ゴ Pro W4",sans-serif;
+	font-weight: bold; /*文字の太さ(font-weight)をbold(太字)に*/
+	text-align: justify; /*文字を揃える*/
+}

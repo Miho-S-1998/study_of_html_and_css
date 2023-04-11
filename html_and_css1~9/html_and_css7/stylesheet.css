@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+p{
+	color: #999;
+}
+
+.blue{ /*<p class=blue> <h1 class=blue>と指定された文字専用*/
+	color: rgb(0, 187, 221);
+}
+
+#orange{ /*<p id=orange>と指定された文字専用*/
+	color: #fa2;
+}
+
+#blue{
+	color: #0bd;
+}
+
+.orange{
+	color: #fa2;
+}

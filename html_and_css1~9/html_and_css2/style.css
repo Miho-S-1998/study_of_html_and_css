@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+div p{
+	color:red;
+}
+
+/*
+
+div p{ (<div>タグに囲まれている<p>タグが対象)
+
+   color:red; (文字の色を赤にする)
+}

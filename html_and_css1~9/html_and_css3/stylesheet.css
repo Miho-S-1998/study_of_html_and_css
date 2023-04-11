@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+html{                 /*html全体のフォントを100％にする*/
+	font-size: 100%;
+}
+
+h1{
+	font-size: 2rem;
+}
+
+h2{
+	font-size: 20px;
+}

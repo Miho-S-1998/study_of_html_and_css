@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+	background-color:rgb(255, 128, 64); /*<body>タグ専用*/
+}
+
+h1{                                       /*<h1>タグ専用*/
+	color: blanchedalmond;
+}
+
+p{                                        /*<p>タグ専用*/
+	font-size: 20px;     
+}
+
+
+/*[書き方]
+
+ h1(セレクタ=装飾したいタグ){
+	
+	color(プロパティ=変更部分):red(値=どのように変えるか。色や画像などを指定)
+	
+ }*/
+
+	
